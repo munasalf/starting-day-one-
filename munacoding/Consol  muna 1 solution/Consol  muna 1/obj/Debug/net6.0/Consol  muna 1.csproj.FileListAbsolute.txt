@@ -1,0 +1,15 @@
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.csproj.AssemblyReference.cache
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.AssemblyInfoInputs.cache
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.AssemblyInfo.cs
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.csproj.CoreCompileInputs.cache
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\bin\Debug\net6.0\Consol  muna 1.exe
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\bin\Debug\net6.0\Consol  muna 1.deps.json
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\bin\Debug\net6.0\Consol  muna 1.runtimeconfig.json
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\bin\Debug\net6.0\Consol  muna 1.dll
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\bin\Debug\net6.0\Consol  muna 1.pdb
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.dll
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\refint\Consol  muna 1.dll
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.pdb
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\Consol  muna 1.genruntimeconfig.cache
+C:\Users\Training\Downloads\muna_18020431\visoula code\munacoding\Consol  muna 1 solution\Consol  muna 1\obj\Debug\net6.0\ref\Consol  muna 1.dll
